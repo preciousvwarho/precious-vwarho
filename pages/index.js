@@ -41,7 +41,7 @@ export default function Home() {
              <div className="row">
                 <div className="col-lg-12">
                     <h1 className="page-title wow fadeInUp"  data-wow-duration="1s">Hi, my <br/>name is <b>Precious</b><span className="dot">.</span></h1>
-                    <p className="page-p wow fadeInUp"  data-wow-duration="1s" data-wow-delay="0.5s">I'm a <b style={{color: '#f0bce4'}}>software developer</b> with  hands-on experience in web and mobile app development.</p>
+                    <p className="page-p wow fadeInUp"  data-wow-duration="1s" data-wow-delay="0.5s">I&apos;m a <b style={{color: '#f0bce4'}}>software developer</b> with  hands-on experience in web and mobile app development.</p>
                     <div className="ux-front">
                       <span className="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.8s">UI/UX Designer</span>
                       <span className="ux wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s"></span>
@@ -71,7 +71,7 @@ export default function Home() {
                 <div className="col-lg-5 col-md-7 mb-5">
                   <div className="">
                       <h3 className="design-head wow flipInX" data-wow-duration="1s" data-wow-delay="0.5s">About me</h3>
-                        <p className="abt-p wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">Hello! i'm Precious Oghenevwarho, a Front-end Developer &amp; UI/UX Designer,
+                        <p className="abt-p wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">Hello! i&apos;m Precious Oghenevwarho, a Front-end Developer &amp; UI/UX Designer,
                         dedicated to creating interaction, appealing and scalable applications.
                          </p>
                         <p className="abt-p wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s"> I bring ideas to life with web and mobile technologies.</p>
@@ -193,7 +193,7 @@ export default function Home() {
                  <div className="col-lg-2"></div>
                  <div className="col-lg-6 text-center intro-text">
                    <h1 className="text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">Say Hello!</h1>
-                   <p className="abt-p text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">If you're intreasted in working with me, please send an email</p>
+                   <p className="abt-p text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">If you&apos;re intreasted in working with me, please send an email</p>
                     <a href="mailto:preciousvwarho@gmail.com" className="btn btn-outline-secondary btn-md wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.5s">Hello! <span> 😀</span></a>
 
                  </div>
