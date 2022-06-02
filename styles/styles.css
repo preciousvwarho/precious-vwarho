@@ -149,17 +149,8 @@ html{
     width:220px;
     height: 220px;
     margin-top:2.5em;
+    box-shadow: 60px -35px #5f45ff52;
 }
-/* .prof-img::before{
-    content: "";
-    display: block;
-    position: absolute;
-    width: 200px;
-    height: 220px;
-    background-color: #5f45ff52;
-    left: 20px;
-    z-index: 80;
-} */
 .prof-box {
     position: relative;
     left: -150px;
@@ -625,11 +616,8 @@ footer .text-center a{
         margin-top: 5%;
         width: fit-content;
     }
-    /* .prof-box {
-        top: -15em;
-        left: 40px;
-        width: 200px;
-        height: 200px;
+    /* .project-image{
+        margin: 0 10px;
     } */
 
 
